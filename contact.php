@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $Mob = $_POST['Mob'] ?? '';
     $message = $_POST['message'] ?? '';
 
-    $to = "harshad.bhosale4378@gmail.com"; 
+    $to = "botmediadigitalmarketing@gmail.com"; //harshad.bhosale4378@gmail.com
     $subject = "New Lead Notification - Website";
 
     $message = "
